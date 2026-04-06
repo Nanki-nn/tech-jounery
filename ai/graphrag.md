@@ -1,4 +1,4 @@
-# 🕸️ GraphRAG 介绍文档
+# 🕸️ GraphRAG 介绍
 
 ## 🤔 什么是 GraphRAG？
 
